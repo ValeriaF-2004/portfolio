@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+header{
+	background-color:#152E84;
+	color: #637DD7;
+}
+
+#aboutme{
+	background-image: url("../img/AboutMeBg.jpeg");
+	padding: 190px 0px;
+	color: #637DD7;
+}
+
+#servicios{
+	padding: 140px 0px;
+	text-align: center;
+	background-color: #630F78;
+	color: #9F58AD;
+}
+#servicios a{
+	color: #630F78;
+	background-color: #9F58AD;
+}
+
+#title{
+	padding: 100px 0px 20px 0px;
+	text-align: center;
+	color: #9F58AD;
+	background-color: #640056;
+	font-size: 40px;
+}
+#title hr{
+	height: 6px;
+	color: #9F58AD;
+}
+
+#title2{
+	padding: 100px 0px 20px 0px;
+	text-align: center;
+	color: #9F58AD;
+	background-color: #6B003A;
+	font-size: 40px;
+}
+#title2 hr{
+	height: 6px;
+	color: #9F58AD;
+}
+
+#title3{
+	padding: 100px 0px 20px 0px;
+	text-align: center;
+	color: #AF4A4D;
+	background-color: #560103;
+	font-size: 40px;
+}
+#title3 hr{
+	height: 6px;
+	color: #AF4A4D;
+}
+
+#title5{
+	padding: 100px 0px 20px 0px;
+	text-align: center;
+	color: #AF4A4D;
+	background-color: #71001E;
+	font-size: 40px;
+}
+#title5 hr{
+	height: 6px;
+	color: #AF4A4D;
+}
+
+#logos{
+	padding: 0px;
+	text-align: center;
+	color: #6B003A;
+	background-color: #6B003A;
+}
+.caja1{
+	background-color: #630F78;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja2 {
+	background-color: #640056;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja3 {
+	background-color: #630F78;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja4{
+	background-color: #630F78;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja5 {
+	background-color: #640056;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja6 {
+	background-color: #630F78;
+	padding: 50px 45px;
+	background-size: cover;
+}
+.caja7{
+	background-color: #630F78;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja8 {
+	background-color: #640056;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+.caja9 {
+	background-color: #630F78;
+	padding: 50px 45px;
+	background-size: cover;
+	color: #9F58AD;
+}
+
+#ilustacion{
+	padding: 0px;
+	text-align: center;
+	color: #560103;
+	background-color: #560103;
+}
+
+#animacion{
+	background-color: #71001E;
+	align-content: center;
+	text-align: center;
+}
+
+#title4{
+	padding: 30px 0;
+}
+#title4 h1{
+	font-size: 30px;
+	color: #AF4A4D;
+	background-color: #450809;
+}
+#title4 .breadcrumb{
+	margin-top: 10px;
+}
+
+#content .titulo{
+	text-align: left;
+	font-size: 35px;
+	background-color: #450809;
+}
+#content h3{
+	font-size: 22px;
+}
+#all{
+	background-color:  #450809;
+	color: #AF4A4D;
+}
+footer{
+	background-color: #000;
+	color: #acbad4;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 13px;
+}
